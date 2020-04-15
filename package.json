@@ -1,0 +1,16 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Try to survive in the real hell",
+  "scripts": {
+    "test": "eslint .",
+    "build": "webpack"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "webpack": "4.42.1",
+    "webpack-cli": "3.3.11"
+  }
+}
