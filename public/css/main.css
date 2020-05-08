@@ -1,0 +1,49 @@
+body {
+	color: #000000;
+}
+
+.field-container {
+  width: 600px;
+  margin: 0 auto;
+	background-color: red;
+	outline: 2px solid green;
+}
+
+.container {
+  display: flex;
+  justify-content:space-between;
+}
+
+.card-container {
+  position: relative;
+  width: 150px;
+  height: 150px; 
+	margin: 0;
+  padding: 0;
+  background-color: blue;
+  outline: 1px solid pink;
+	list-style: none;
+}	
+
+.card {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 0;
+}
+
+.card-start-field {
+  width: 600px;
+  margin: auto;
+  display: flex;
+  justify-content:space-between;
+}
+
+.card-name, .card-distance {
+  margin: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+

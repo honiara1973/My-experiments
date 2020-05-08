@@ -10,6 +10,7 @@ Thumbs.db
 # Вспомогательные файлы
 *.log*
 node_modules/
+delete_template_data.js
 
 # Папка с собранными файлами проекта
 build/
